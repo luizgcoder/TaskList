@@ -21,10 +21,7 @@
 git clone https://github.com/seu-usuario/tasklist-kotlin.git
 ```
 
-2. Execute o programa:
-```bash
-./gradlew run
-```
+2. Execute o programa.
 
 3. Interaja com o menu:
 
