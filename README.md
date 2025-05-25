@@ -9,7 +9,7 @@
 
 - ✅ CRUD completo de tarefas
 - 🔄 Atualização de status (concluído/pendente)
-- 🔍 Busca por ID e filtro por status
+- 🔍 Busca por ID
 - 🆔 Geração automática de IDs com reciclagem
 - 📅 Data de criação automática
 - ✨ Formatação bonita de saída
